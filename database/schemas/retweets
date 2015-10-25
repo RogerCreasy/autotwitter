@@ -1,0 +1,7 @@
+CREATE TABLE retweets (
+  id int(8) NOT NULL AUTO_INCREMENT,
+  tweet_id bigint(24) DEFAULT NULL,
+  user_name varchar(24) DEFAULT NULL,
+  retweet_update varchar(36) DEFAULT NULL,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8
