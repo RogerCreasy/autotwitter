@@ -1,7 +1,7 @@
 # AutoTwitter
 A set of tools, written in PHP, to automate Twitter functionality.
 
-##TO be included:
+##To be included:
 * Thank users for RT
 * Schedule tweets
 
