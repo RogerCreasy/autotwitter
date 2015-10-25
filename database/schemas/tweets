@@ -1,0 +1,8 @@
+CREATE TABLE tweets (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  tweet char(140) DEFAULT NULL,
+  last_tweet_date datetime NOT NULL DEFAULT '2015-01-01 00:00:00',
+  tweet_count int(5) DEFAULT NULL,
+  tweet_length int(3) DEFAULT NULL,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB AUTO_INCREMENT=100001 DEFAULT CHARSET=utf8;	
