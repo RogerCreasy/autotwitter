@@ -23,5 +23,6 @@ class BuildBaseString {
         }
 
         $this->baseString = $method."&" . rawurlencode($baseURI) . '&' . rawurlencode(implode('&', $this->sortedParams[]));
+        return $this->baseString;
     }
 }
