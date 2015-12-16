@@ -4,6 +4,7 @@ A set of tools, written in PHP, to automate Twitter functionality.
 ##To be included:
 * Thank users for RT
 * Schedule tweets
+* Manage a library of Tweets
 
 ##Requirements
 First, you will need to register your application with twitter via apps.twitter.com, and obtain the following:<br/>
