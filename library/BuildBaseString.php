@@ -8,7 +8,7 @@
 
 namespace library;
 
-
+//create and return the base string
 class BuildBaseString {
 
     public $baseString;
