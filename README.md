@@ -13,4 +13,4 @@ First, you will need to register your application with twitter via apps.twitter.
 * access_token
 * access_token_secret
  
-##//TODO I hope to add other developers to this project. If you are interested, contact me.
+##//TODO I hope to add other developers to this project. If you are interested, contact me by opening an issue.
